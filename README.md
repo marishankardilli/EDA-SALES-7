@@ -178,6 +178,6 @@ the processed dataset.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **Made with Python 🐍 \| Student Performance EDA 📊**
 :::
